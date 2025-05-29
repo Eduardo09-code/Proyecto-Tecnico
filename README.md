@@ -2,7 +2,7 @@
 
 #Instrucciones par ejecutar el proyecto
 
-# Descomprimir
+## Descomprimir
 
 # Ejecutar el Backend
 # estar dentro de la carpeta y en la terminal ejecutar 'npm start'
